@@ -1,0 +1,7 @@
+{
+  "name": "Copy Test ",
+  "description": "Ứng dụng quản lý chi tiêu thông minh sử dụng Gemini AI để tự động phân loại giao dịch và đồng bộ dữ liệu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
